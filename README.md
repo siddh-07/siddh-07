@@ -1,8 +1,45 @@
-# 💫 About Me:
-A developer who loves building useful software and contributing to open-source. Always learning and happy to collaborate.<br><br>- 👯 I’m looking to collaborate on<br>  - open-source projects in web development, developer tools, or machine learning. I enjoy working on things involving TypeScript, Python, and cloud-native tech.<br><br>- 🤝 I’m looking for help with<br>  - scaling production systems, UX/design feedback, and architecture reviews.<br><br>- 🌱 I’m currently learning<br>  - Rust and advanced system design.<br><br>- 💬 Ask me about<br>  - web development, building APIs, automation, and getting started with open-source contributions.<br><br>- ⚡ Fun fact<br>  - I love automating boring tasks — small scripts that save time are my happy place.<br><br>
+# 👋 Hi, I'm Siddh Bhadani
 
+Full-stack developer passionate about building scalable, user-centric applications and contributing to the open-source ecosystem. I thrive on solving complex problems and continuously expanding my technical expertise.
 
-## 🌐 Socials:
+## 🚀 What I Do
+
+I specialize in building modern web applications, RESTful APIs, and automation tools using TypeScript, Python, and cloud-native technologies. My work spans from frontend interfaces to backend infrastructure, with a focus on clean code and maintainable systems.
+
+## 🤝 Open to Collaboration
+
+I'm actively seeking opportunities to collaborate on:
+- **Open-source projects** in web development, developer tooling, and machine learning
+- **Production-scale applications** leveraging TypeScript, Python, React, and cloud platforms
+- **Developer experience improvements** and productivity tools
+
+## 🎯 Current Focus
+
+- Deepening my expertise in **Rust** for systems programming
+- Mastering **advanced system design** patterns and distributed systems architecture
+- Contributing to impactful open-source projects
+
+## 💡 Areas of Expertise
+
+- Full-stack web development (React, Node.js, TypeScript)
+- RESTful API design and implementation
+- Cloud infrastructure and DevOps practices
+- Automation and workflow optimization
+- Onboarding developers to open-source contribution
+
+## 🔍 Seeking Feedback On
+
+- System architecture and design patterns for scalability
+- UX/UI design decisions and accessibility improvements
+- Code reviews and best practices
+
+## ⚡ Beyond Code
+
+I'm an automation enthusiast who believes the best code is code you don't have to write twice. I love creating small, elegant scripts that eliminate repetitive tasks and improve developer workflows.
+
+---
+
+📫 **Let's connect:**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddh_bhadani_0726) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhadani-siddh-15953a249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhbhadani26@gmail.com) 
 
 # 💻 Tech Stack:
