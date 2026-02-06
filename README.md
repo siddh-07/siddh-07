@@ -53,16 +53,6 @@ My projects are built to **run in the real world**, not just look good in screen
 
 ## 📌 Featured Projects
 
-### 🔹 MeeshoAutoLister
-
-Automation tool for **bulk product listing on Meesho**
-
-- **Tech:** Python, Selenium
-- **Problem:** Manual listing was slow and error-prone
-- **Impact:** Reduced listing time significantly for repeat uploads
-
----
-
 ### 🔹 JarvisAssistant
 
 Modular **Python voice assistant**
