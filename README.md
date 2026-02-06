@@ -1,41 +1,102 @@
 # 👋 Hi, I'm Siddh Bhadani
 
-Full-stack developer passionate about building scalable, user-centric applications and contributing to the open-source ecosystem. I thrive on solving complex problems and continuously expanding my technical expertise.
+**Automation-focused Python developer** with a background in **Computer Systems Technology**.\
+I build **practical, real-world tools** that reduce manual work, improve workflows, and solve everyday problems.
 
-## 🚀 What I Do
+I care about **reliability, maintainability, and actual usage** — not just demos.
 
-I specialize in building modern web applications, RESTful APIs, and automation tools using TypeScript, Python, and cloud-native technologies. My work spans from frontend interfaces to backend infrastructure, with a focus on clean code and maintainable systems.
+---
+
+## 🚀 What I Actually Build
+
+- 🔧 Automation tools for repetitive business tasks
+- 🤖 Bots & integrations using APIs (Splitwise, WhatsApp, web platforms)
+- 🧩 Backend scripts & services in Python
+- 🖥️ System-level tooling on **Linux & Windows**
+
+My projects are built to **run in the real world**, not just look good in screenshots.
+
+---
+
+## 🧠 Current Focus
+
+- Improving **code quality** (logging, error handling, testing)
+- Learning **system design fundamentals** through small but complete projects
+- Exploring **Rust** for low-level and performance-critical tooling
+
+---
+
+## 🛠️ Tech I Use Regularly
+
+**Languages**
+
+- Python, JavaScript, TypeScript
+
+**Backend & Automation**
+
+- REST APIs, automation scripts, bots
+
+**Databases**
+
+- MongoDB, MySQL, SQL Server
+
+**Cloud & DevOps**
+
+- AWS, Azure
+- Docker (learning & experimenting)
+
+**Systems**
+
+- Linux & Windows administration
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 MeeshoAutoLister
+
+Automation tool for **bulk product listing on Meesho**
+
+- **Tech:** Python, Selenium
+- **Problem:** Manual listing was slow and error-prone
+- **Impact:** Reduced listing time significantly for repeat uploads
+
+---
+
+### 🔹 JarvisAssistant
+
+Modular **Python voice assistant**
+
+- **Tech:** Python, speech recognition, automation
+- **Focus:** AI-assisted workflows & system automation
+- Built to understand automation pipelines, not just voice commands
+
+---
+
+### 🔹 splitwise-whatsapp-bot
+
+WhatsApp bot integrated with **Splitwise**
+
+- **Tech:** Python, APIs
+- **Use case:** Automated expense reminders & balance checks
+- Designed for real group usage, not mock data
+
+---
 
 ## 🤝 Open to Collaboration
 
-I'm actively seeking opportunities to collaborate on:
-- **Open-source projects** in web development, developer tooling, and machine learning
-- **Production-scale applications** leveraging TypeScript, Python, React, and cloud platforms
-- **Developer experience improvements** and productivity tools
+- Automation & productivity tools
+- Python-based backend projects
+- Real-world problem solving (bots, scripts, integrations)
 
-## 🎯 Current Focus
+If it saves time or removes friction — I’m interested.
 
-- Deepening my expertise in **Rust** for systems programming
-- Mastering **advanced system design** patterns and distributed systems architecture
-- Contributing to impactful open-source projects
-
-## 💡 Areas of Expertise
-
-- Full-stack web development (React, Node.js, TypeScript)
-- RESTful API design and implementation
-- Cloud infrastructure and DevOps practices
-- Automation and workflow optimization
-- Onboarding developers to open-source contribution
-
-## 🔍 Seeking Feedback On
-
-- System architecture and design patterns for scalability
-- UX/UI design decisions and accessibility improvements
-- Code reviews and best practices
+---
 
 ## ⚡ Beyond Code
 
-I'm an automation enthusiast who believes the best code is code you don't have to write twice. I love creating small, elegant scripts that eliminate repetitive tasks and improve developer workflows.
+I believe the best code is **code you don’t have to write twice**.\
+I enjoy creating small, elegant scripts that eliminate repetitive tasks and improve developer workflows.
 
 ---
 
